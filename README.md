@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ay2sh
-- 👀 I’m interested in  webdevlopment
+- 👀 I’m interested in  web devlopment
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me 8318417992
